@@ -1,0 +1,579 @@
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, ?, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, ?, ?, ?)
+(UserDao.java:47) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=null, hiredate=null, deptno=null]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, ?, ?, ?)
+(UserDao.java:47) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=abc, hiredate=def, deptno=ghi]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, ?, ?, ?)
+
+(UserDao.java:47) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=abc, hiredate=def, deptno=ghi]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate, deptno) 
+VALUES(?, ?, ?, ?, SYSDATE, SYSDATE, ?)
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE)                
+SYSDATE)                
+	   ?,                  
+
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE)                
+SYSDATE)                
+	   ?,                  
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE                 
+SYSDATE                 
+	   ?)                  
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE,                
+SYSDATE,                
+	   ?)                  
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE,                
+SYSDATE,                
+	   ?)                  
+
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?)                  
+
+(UserDao.java:61) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음, deptno=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?)                  
+
+(UserDao.java:61) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음, deptno=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:49) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate,           
+    deptno              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?)                  
+
+(UserDao.java:61) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음, deptno=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:47) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate           
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?)                  
+
+(UserDao.java:58) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:47) - sql: 
+INSERT INTO member(     
+    empno,              
+    ename,              
+    password,           
+    position,           
+    birthday,           
+    hiredate           
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?,                  
+	   ?)                  
+
+(UserDao.java:58) - param: UserVO [empno=james01, ename=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:43) - sql: 
+INSERT INTO member(     
+    user_id,            
+    ename,              
+    password,           
+    reg_dt              
+) VALUES (              
+	   ?,                  
+	   ?,                  
+	   ?,                  
+SYSDATE)                
+
+(UserDao.java:52) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate)VALUES(?, ?, ?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position, birthday, hiredate)VALUES(?, ?, ?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empno, ename, password, position)VALUES(?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(user_id, ename, password, reg_dt)VALUES(?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(user_id, ename, password, reg_dt)VALUES(?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(USER_ID, ENAME, PASSWORD, REG_DT)VALUES(?, ?, ?, ?);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(USER_ID, ENAME, PASSWORD, REG_DT)VALUES(?, ?, ?, SYSDATE);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(USER_ID, ENAME, PASSWORD, REG_DT)VALUES(?, ?, ?, SYSDATE);
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(USER_ID, ENAME, PASSWORD, REG_DT)VALUES(?, ?, ?, SYSDATE)
+(UserDao.java:44) - param: UserVO [userid=james01, ename=이상무01, password=4321, regdt=사용하지 않음]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(USER_ID, ENAME, PASSWORD, REG_DT)VALUES(?, ?, ?, SYSDATE)
+(UserDao.java:44) - param: UserVO [userid=1, ename=이상무01, password=4321, regdt=사용하지 않음]
+(UserDao.java:48) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, ?, ?, ?)
+(UserDao.java:47) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음, deptNo=0]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, ?, ?, ?)
+(UserDao.java:47) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음, birthday=사용하지 않음, hiredate=사용하지 않음, deptNo=0]
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, SYSDATE, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, SYSDATE, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, SYSDATE, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, birthday, hiredate, deptno)VALUES(?,?, ?, ?, SYSDATE, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, hiredate, deptno)VALUES(?,?, ?, ?, SYSDATE, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno)VALUES(?,?, ?, ?, ?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno)VALUES(?,?,?,?,?)
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position)VALUES(?,?,?,?)
+(UserDao.java:45) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:49) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno)VALUES(?,?,?,?,?)
+(UserDao.java:46) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:50) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno, hiredate)VALUES(?,?,?,?,?,SYSDATE)
+(UserDao.java:47) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:51) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno, hiredate, birthday)VALUES(?,?,?,?,?,SYSDATE,SYSDATE)
+(UserDao.java:47) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:51) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:35) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno, hiredate, birthday)VALUES(?,?,?,?,?,SYSDATE,SYSDATE)
+(UserDao.java:45) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:49) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(XmlBeanDefinitionReader.java:393) - Loaded 2 bean definitions from class path resource [applicationContext.xml]
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'dataSource'
+(DefaultSingletonBeanRegistry.java:225) - Creating shared instance of singleton bean 'userDao'
+(UserMain.java:33) - doSave
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:36) - sql: 
+INSERT INTO EMPLOYEE(empid, ename, password, position, deptno, hiredate, birthday)VALUES(?,?,?,?,?,SYSDATE,SYSDATE)
+(UserDao.java:46) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:50) - 4.flag: 1
+(UserMain.java:38) - *****************************
+(UserMain.java:39) - 등록 성공
+(UserMain.java:40) - *****************************
+(UserMain.java:53) - doSelectOne
+(SimpleDriverDataSource.java:142) - Creating new JDBC Driver Connection to [jdbc:oracle:thin:@localhost:1521:xe]
+(UserDao.java:65) - sql: 
+SELECT empid, ename, password, position, deptno, birthday, hiredate FROM EMPLOYEE WHERE empid=?
+
+(UserDao.java:70) - param: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserDao.java:85) - OutVO: + UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserMain.java:58) - *****************************
+(UserMain.java:59) - 조회 성공: UserVO [empId=1, name=이상무01, password=4321, position=사용하지 않음]
+(UserMain.java:60) - *****************************
